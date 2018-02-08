@@ -1,2 +1,2 @@
-#Project 1 Readme
+#Project RESURGENCE Readme
 This is a demo project
